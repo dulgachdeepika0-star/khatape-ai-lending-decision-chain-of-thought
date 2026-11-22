@@ -36,6 +36,32 @@ Explanation
 * S06: Option A gives higher profit.
 * S07: Option B gives higher profit.
 * S08: Option A gives higher profit.
+* KhataPe Lending Decisions
+
+Project Overview
+
+This project is a fictional FinTech case study about KhataPe, a digital lending company. It compares direct prompting with step-by-step prompting to make better lending decisions.
+
+Objectives
+
+* Understand prompt engineering.
+* Compare two loan options.
+* Calculate net returns and profits.
+* Check AI accuracy using calculations.
+
+Tools Used
+
+* ChatGPT
+* GitHub
+* Excel / Google Sheets
+
+Key Learning
+
+Step-by-step prompting makes AI calculations easier to understand and verify. Checking calculations is important before making financial decisions.
+
+Conclusion
+
+This project shows that AI can help compare lending options, but its calculations should always be checked before making a final decision.
 
 Dataset Check
 
