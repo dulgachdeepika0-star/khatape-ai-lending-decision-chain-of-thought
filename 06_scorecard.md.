@@ -1,9 +1,52 @@
 Part B – Sensitivity Test
+Part B – Sensitivity Test
 
 S01: Change in Option B Expected Default
 
 Original Option B expected default = 4%
 
+New Option B expected default = 8%
+
+Option A Calculation:
+
+* Net Return = 24 + 2 − 10 − 10 = 6%
+* Profit = 6/100 × 50 = ₹3 crore
+
+Option B Calculation:
+
+* Net Return = 20 + 1 − 8 − 10 = 3%
+* Profit = 3/100 × 50 = ₹1.5 crore
+
+Final Result:
+
+Originally, Option B was more profitable with ₹3.5 crore profit. After increasing its expected default to 8%, Option A becomes more profitable with ₹3 crore.
+
+Therefore, the decision changes from Option B to Option A.
+Part C – Scorecard
+
+Scenario	Direct Decision	Step-by-Step Decision	Correct Answer
+S01	B	B	B
+S02	A	A	A
+S03	B	B	B
+S04	B	B	B
+S05	A	A	A
+S06	A	A	A
+S07	B	B	B
+S08	A	A	A
+
+Score Comparison
+
+* Direct Decision: 8/8
+* Step-by-Step Decision: 8/8
+* Trap scenarios: 3/3
+* Working checkable: Yes
+
+Reflection
+
+1. Direct answers are useful for simple questions because they save time.
+2. Step-by-step calculations help verify both options.
+3. Step-by-step prompting made the answer easier to check, but not more accurate because both methods gave correct answers.
+4. A CFO should also consider RBI digital lending rules and collection costs.
 New Option B expected default = 8%
 
 Option A Calculation:
