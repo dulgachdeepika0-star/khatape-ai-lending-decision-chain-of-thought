@@ -1,0 +1,23 @@
+Part B – Sensitivity Test
+
+S01: Change in Option B Expected Default
+
+Original Option B expected default = 4%
+
+New Option B expected default = 8%
+
+Option A Calculation:
+
+* Net Return = 24 + 2 − 10 − 10 = 6%
+* Profit = 6/100 × 50 = ₹3 crore
+
+Option B Calculation:
+
+* Net Return = 20 + 1 − 8 − 10 = 3%
+* Profit = 3/100 × 50 = ₹1.5 crore
+
+Final Result:
+
+Originally, Option B was more profitable with ₹3.5 crore profit. After increasing its expected default to 8%, Option A becomes more profitable with ₹3 crore.
+
+Therefore, the decision changes from Option B to Option A.
