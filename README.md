@@ -1,7 +1,21 @@
 # khatape-ai-lending-decision-chain-of-thought
 Fictional FinTech case study: comparing direct answers with chain-of-thought prompting for a digital lender's monthly loan decision. Includes synthetic scenarios, prompts, AI working, error checks and a scorecard.
 Answer Key
+AI Response
 
+ID	Higher Interest Rate
+S01	A
+S02	B
+S03	A
+S04	B
+S05	A
+S06	A
+S07	B
+S08	B
+
+Observation
+
+AI successfully identified the option with the higher interest rate in all 8 scenarios using direct simple prompting.
 ID	A Net Return (%)	A Profit (₹ crore)	B Net Return (%)	B Profit (₹ crore)	Correct Choice
 S01	6	3.00	7	3.50	B
 S02	6	2.40	6	2.40	A
